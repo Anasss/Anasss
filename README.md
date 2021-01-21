@@ -13,7 +13,7 @@ My current tech stack:
 * GIT 
 * Docker
 
-In my spare time, I like travelling, reading, working out and <b><a href="https://foot.asiesophia.fr/index.php?op=stade" target="_blank">playing Football</a></b> &#9917;<br>
+In my spare time, I like travelling, reading, working out and <b><a href="https://foot.asiesophia.fr/index.php?op=cal&s=A" target="_blank">playing Football</a></b> &#9917;<br>
 I also enjoy playing contests and solving puzzles on <b>[CodinGame](https://www.codingame.com/profile/7ce93bcf4c5748d253827f9043bdae4b821451)</b>
 
 📫 You can find me on <b>[Twitter](https://twitter.com/AnasRach)</b> or drop me a line on <b>anas.rach@gmail.com</b>!<br> 
