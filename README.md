@@ -4,6 +4,8 @@
 
 I work for <b>[Amadeus](https://amadeus.com/en)</b> :airplane: Helping Airlines integrate third-party content.<br>
 
+I am interested in the Java world, Software Craftsmanship, DevOps culture and Automation.
+
 My current tech stack:
 
 * Java 8
